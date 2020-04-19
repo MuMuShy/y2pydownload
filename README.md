@@ -10,7 +10,15 @@
 
 demo: https://www.youtube.com/watch?v=eRc1_H25Vk0&feature=youtu.be
 
+
 4/19 update:
+
+
 修復循環播放無法正常循環的Bug
+
+
 修復暫停功能無法正常回復正常播放的Bug
+
+
 新增音量增減按鈕
+
